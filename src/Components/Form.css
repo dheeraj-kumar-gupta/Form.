@@ -1,0 +1,54 @@
+label{
+    font-weight: bold;
+  }
+ .container {
+    position: relative;
+    display: flex;
+  }
+  h1{
+    text-align: center;
+  }
+  /* CSS for First Name and Last Name */
+  /* Form.css */
+.form-container {
+    display: grid;
+    justify-content: left;
+    align-items: center;
+    height: 50vh;
+    background-color: #f5f5f5;
+    width: auto;
+  }
+  
+  .form-box {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  
+  /* Additional styles for the input fields and labels */
+  .name-inputs {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  .name-inputs2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  .name-inputs3 {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+  }
+  
+  /* Style for the submit button */
+  .submit-button {
+    display: flex;
+    justify-content: center;
+  }
+  
